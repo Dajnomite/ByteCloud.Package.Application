@@ -9,7 +9,7 @@ namespace ByteCloud.Package.Application
     {
         private static readonly HttpClient httpClient = new HttpClient();
 
-        private static readonly string baseUrl = "https://ByteCloud.Package.com/16d1cf68-883a-4daa-936a-1133c88ed4cd/vault";
+        private static readonly string baseUrl = "https://bytecobra.com/16d1cf68-883a-4daa-936a-1133c88ed4cd/vault";
 
         public static string Read(string secret, string key)
         {

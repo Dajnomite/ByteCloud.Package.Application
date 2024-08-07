@@ -8,7 +8,7 @@ script_dir = os.path.dirname(os.path.realpath(__file__))
 source_url = "https://nuget.pkg.github.com/Dajnomite/index.json"
 
 # Specify a custom version for the package
-custom_version = "1.0.0"
+custom_version = "1.0.1"
 
 # Find the name of the .csproj file in the script directory
 project_name = None
